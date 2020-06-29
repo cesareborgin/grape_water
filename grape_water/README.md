@@ -32,4 +32,7 @@
 - 账号密码：AlibabaGroup/ Aliobaba1012
 ### 运行效果
 1. ![image](C:\Users\lzs18\Desktop\毕业设计\项目截图\360截图17290506145715.png)
+所有相关文档：
+  链接：https://pan.baidu.com/s/1PX7Lm6KolJeMlAW1mmsYag 
+提取码：nqpp
 
